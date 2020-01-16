@@ -9,4 +9,9 @@ git config --global user.name Sandy
 git config --global user.email ysn0808@yeah.net
 
 
+.gitignore文件:填写要忽略的文件，不想提醒add的文件。
+
+git commit -m 'init commit'
+
+
 """
